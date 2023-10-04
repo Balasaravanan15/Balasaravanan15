@@ -5,7 +5,7 @@
 <br>🌱 I’m currently learning Azure, DSA<br>💬 Ask me about anything related to MERN stack<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balasaravanan-c) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balasaravanan-c-29b24b196/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/balasaravananc) 
 
 # 💻 Tech Stack:
